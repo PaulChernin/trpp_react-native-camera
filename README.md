@@ -5,7 +5,7 @@
 See this [issue](https://github.com/react-native-community/react-native-camera/issues/3000)
 change 1 branch 2
 change 2 branch 2
-
+change 3 branch 2
 ## Docs
 Follow our docs here [https://react-native-camera.github.io/react-native-camera/](https://react-native-camera.github.io/react-native-camera/)
 
