@@ -3,7 +3,7 @@
 ### 🚧🚧 Looking for maintainers and backers 🚧🚧
 branch 1 change 1
 branch 1 change 2
-
+branch 1 change 3
 We are looking for maintainers for this package, or to depreciate this in favor of [react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) or [expo-camera](https://docs.expo.io/versions/latest/sdk/camera/), if nobody want to maintain this package.
 
 ## Docs
